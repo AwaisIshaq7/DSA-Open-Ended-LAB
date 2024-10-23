@@ -1,0 +1,5 @@
+﻿  MAIN.cpp
+  MyClass.cpp
+C:\Users\DELL\source\repos\DSA Open Ended Lab\MyClass.cpp(115,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  DSA Open Ended Lab.vcxproj -> C:\Users\DELL\source\repos\DSA Open Ended Lab\x64\Debug\DSA Open Ended Lab.exe
